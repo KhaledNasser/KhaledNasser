@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there 👋  It's Khaled Nasser 
 
+
+# About me:
+
+Student at communication and electronics department. Electrical Engineer
+working on development kits and software, participate in many competitions {minesweeper, UGVC
+ERC, MATE ROV Competition}, enthusiastic about ROS and AI applications with Embedded systems.
 <!--
 **KhaledNasser/KhaledNasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
