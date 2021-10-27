@@ -3,7 +3,7 @@
 
 # About me:
 
-Student at communication and electronics department. Electrical Engineer
+Communication and electronics Engineer. 
 working on development kits and software, participate in many competitions {minesweeper, UGVC
 ERC, MATE ROV Competition}, enthusiastic about ROS and AI applications with Embedded systems.
 
